@@ -1,8 +1,8 @@
 # split72
 
-![split72](https://imgur.com/a/j4D3FPa)
+![split72](https://i.imgur.com/AOnib6O.jpeg)
 
-A handwired and 3D printed split 65% layout plus some extra function keys. Swappable body and baseplate. Uses USB-C to carry signals because why not. [I love Omega Strikers.](https://imgur.com/a/F8A3mDl)
+A handwired and 3D printed split 65% layout plus some extra function keys. Swappable body and baseplate. Uses USB-C to carry signals because why not. [I love Omega Strikers.](https://i.imgur.com/SD1vMY3.jpeg)
 
 * Keyboard Maintainer: [Awedtan](https://github.com/Awedtan)
 * Hardware Supported: [WeAct Blackpill (STM32F411)](https://docs.qmk.fm/platformdev_blackpill_f4x1#weact-blackpill-stm32f4x1)

@@ -1,12 +1,12 @@
 # split72
 
-![split72](imgur.com image replace me!)
+![split72](https://imgur.com/a/j4D3FPa)
 
-*A short description of the keyboard/project*
+A handwired and 3D printed split 65% layout plus some extra function keys. Swappable body and baseplate. Uses USB-C to carry signals because why not. [I love Omega Strikers.](https://imgur.com/a/F8A3mDl)
 
 * Keyboard Maintainer: [Awedtan](https://github.com/Awedtan)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: [WeAct Blackpill (STM32F411)](https://docs.qmk.fm/platformdev_blackpill_f4x1#weact-blackpill-stm32f4x1)
+* Hardware Availability: [AliExpress](https://www.aliexpress.com/item/1005001456186625.html)
 
 Make example for this keyboard (after setting up your build environment):
 

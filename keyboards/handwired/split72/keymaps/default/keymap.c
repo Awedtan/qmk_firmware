@@ -28,18 +28,18 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     ),
 
     [1] = LAYOUT_split72(
-        KC_GRV,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                     KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_DEL,  n,      
-        n,       n,       KC_UP,   n,       n,       n,                         n,       n,       n,       n,       n,       n,       n,       n,       KC_INS,      
+        KC_GRV,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                     KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_DEL,  n,
+        n,       n,       KC_UP,   n,       n,       n,                         n,       n,       KC_UP,   n,       n,       n,       n,       n,       KC_INS,
         KC_CAPS, KC_LEFT, KC_DOWN, KC_RGHT, n,       n,                                  n,       KC_LEFT, KC_RGHT, n,       n,       n,       n,       KC_HOME,
-        n,       n,       n,       n,       n,       n,                         n,       n,       n,       n,       n,       n,       n,       n,       KC_END,
+        n,       n,       n,       n,       n,       n,                         n,       n,       KC_DOWN, n,       n,       n,       n,       n,       KC_END,
         n,       n,       n,       MO(2),   n,                                           n,       MO(2),   n,       n,       n,       n,       n,       n
     ),
 
     [2] = LAYOUT_split72(
-        n,       n,       n,       n,       n,       n,   n,                    n,       n,       n,       n,       n,       n,       n,       n,      
-        n,       n,       n,       n,       n,       n,                         n,       n,       n,       n,       n,       n,       n,       n,       n,      
+        n,       n,       n,       n,       n,       n,   n,                    n,       n,       n,       n,       n,       n,       n,       n,
+        n,       n,       n,       n,       n,       n,                         n,       n,       KC_PGUP, n,       n,       n,       n,       n,       n,
         n,       n,       n,       n,       n,       n,                                  n,       KC_HOME, KC_END,  n,       n,       n,       n,       n,
-        n,       n,       n,       n,       n,       n,                         n,       n,       n,       n,       n,       n,       n,       n,       n,
+        n,       n,       n,       n,       n,       n,                         n,       n,       KC_PGDN, n,       n,       n,       n,       n,       n,
         n,       n,       n,       n,       n,                                           n,       n,       n,       n,       n,       n,       n,       n
     )
 };

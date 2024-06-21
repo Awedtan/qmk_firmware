@@ -1,3 +1,5 @@
+Shortcut: https://github.com/Awedtan/qmk_firmware/tree/master/keyboards/handwired/split72
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
